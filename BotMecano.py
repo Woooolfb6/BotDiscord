@@ -166,7 +166,7 @@ async def on_raw_reaction_remove(payload):
 async def main():
     async with bot:
         await bot.start(
-            "MTMwOTU0ODkxMTY3MjgxOTkxNA.G_6WWv.7lV6MGsazt7hDBZ-_EI9z95TFtYNrPStko5izA"
+            "A METTRE"
         )
 
 
